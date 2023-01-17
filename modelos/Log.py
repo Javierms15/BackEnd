@@ -1,6 +1,12 @@
+
 from mongoengine import *
 from enumerados.Servicios import Servicios
 from modelos.Coordenadas import Coordenadas
+import requests
+import datetime
+from google.oauth2 import id_token
+from google.oauth2.credentials import Credentials
+from pymongo import MongoClient
 
 
 class Log(Document):
