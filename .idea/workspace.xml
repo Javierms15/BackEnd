@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0a46c52-9ab2-4195-a68c-c3605d76108d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/modelos/Log.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/Log.py" afterDir="false" />
-    </list>
+    <list default="true" id="b0a46c52-9ab2-4195-a68c-c3605d76108d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +42,7 @@
       <updated>1673899828952</updated>
       <workItem from="1673899830444" duration="95000" />
       <workItem from="1673949788917" duration="44000" />
+      <workItem from="1673978893324" duration="337000" />
     </task>
     <servers />
   </component>
